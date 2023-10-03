@@ -1,0 +1,9 @@
+.cand01, .cand02{
+    display: flex;
+    flex-direction: row;
+}
+
+h1{
+    font-size: 20px;
+}
+
